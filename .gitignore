@@ -184,3 +184,5 @@ project/target
 .worksheet
 
 .vscode/settings.json
+*.txt
+*.png
