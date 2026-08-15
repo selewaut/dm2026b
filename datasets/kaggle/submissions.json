@@ -1,0 +1,1523 @@
+[
+  {
+    "ref": "--------",
+    "fileName": "--------------------",
+    "date": "--------------------------",
+    "description": "----------------------------------------------------------------------------------------------------------------",
+    "status": "-------------------------",
+    "publicScore": "-----------",
+    "privateScore": "------------"
+  },
+  {
+    "ref": "55514326",
+    "fileName": "KA5957_12000.csv",
+    "date": "2026-08-14 22:09:27.530000",
+    "description": "envios=12000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "372.581",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55514318",
+    "fileName": "KA5957_11500.csv",
+    "date": "2026-08-14 22:08:37.193000",
+    "description": "envios=11500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "371.998",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55514310",
+    "fileName": "KA5957_11000.csv",
+    "date": "2026-08-14 22:07:47.660000",
+    "description": "envios=11000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "377.748",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55514295",
+    "fileName": "KA5957_10500.csv",
+    "date": "2026-08-14 22:06:58.913000",
+    "description": "envios=10500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "373.831",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55514289",
+    "fileName": "KA5957_10000.csv",
+    "date": "2026-08-14 22:06:10.107000",
+    "description": "envios=10000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "376.331",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55514279",
+    "fileName": "KA5957_9500.csv",
+    "date": "2026-08-14 22:05:21.270000",
+    "description": "envios=9500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "366.748",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55514269",
+    "fileName": "KA5957_9000.csv",
+    "date": "2026-08-14 22:04:31.557000",
+    "description": "envios=9000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "361.915",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55497146",
+    "fileName": "KA5956_12000.csv",
+    "date": "2026-08-14 03:49:30.900000",
+    "description": "envios=12000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "362.998",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55497128",
+    "fileName": "KA5956_11500.csv",
+    "date": "2026-08-14 03:48:42.060000",
+    "description": "envios=11500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "364.581",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55497118",
+    "fileName": "KA5956_11000.csv",
+    "date": "2026-08-14 03:47:53.200000",
+    "description": "envios=11000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "360.331",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55497105",
+    "fileName": "KA5956_10500.csv",
+    "date": "2026-08-14 03:47:04.367000",
+    "description": "envios=10500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "367.498",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55497087",
+    "fileName": "KA5956_10000.csv",
+    "date": "2026-08-14 03:46:15.523000",
+    "description": "envios=10000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "370.248",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55497068",
+    "fileName": "KA5956_9500.csv",
+    "date": "2026-08-14 03:45:26.670000",
+    "description": "envios=9500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "376.331",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55497058",
+    "fileName": "KA5956_9000.csv",
+    "date": "2026-08-14 03:44:37.813000",
+    "description": "envios=9000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "362.248",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55465184",
+    "fileName": "KA5954_12000.csv",
+    "date": "2026-08-12 18:31:50.687000",
+    "description": "envios=12000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "362.248",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55465174",
+    "fileName": "KA5954_11500.csv",
+    "date": "2026-08-12 18:31:01.733000",
+    "description": "envios=11500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "369.331",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55465160",
+    "fileName": "KA5954_11000.csv",
+    "date": "2026-08-12 18:30:12.880000",
+    "description": "envios=11000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "372.165",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55465147",
+    "fileName": "KA5954_10500.csv",
+    "date": "2026-08-12 18:29:24.140000",
+    "description": "envios=10500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "375.581",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55465135",
+    "fileName": "KA5954_10000.csv",
+    "date": "2026-08-12 18:28:35.273000",
+    "description": "envios=10000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "377.081",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55465125",
+    "fileName": "KA5954_9500.csv",
+    "date": "2026-08-12 18:27:46.440000",
+    "description": "envios=9500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "375.665",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55465114",
+    "fileName": "KA5954_9000.csv",
+    "date": "2026-08-12 18:26:57.557000",
+    "description": "envios=9000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "372.998",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55448543",
+    "fileName": "KA5952_12000.csv",
+    "date": "2026-08-12 04:20:30.270000",
+    "description": "envios=12000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "353.665",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55448533",
+    "fileName": "KA5952_11500.csv",
+    "date": "2026-08-12 04:19:41.383000",
+    "description": "envios=11500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "353.998",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55448521",
+    "fileName": "KA5952_11000.csv",
+    "date": "2026-08-12 04:18:52.533000",
+    "description": "envios=11000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "346.665",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55448508",
+    "fileName": "KA5952_10500.csv",
+    "date": "2026-08-12 04:18:02.897000",
+    "description": "envios=10500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "350.081",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55448487",
+    "fileName": "KA5952_10000.csv",
+    "date": "2026-08-12 04:17:13.323000",
+    "description": "envios=10000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "347.081",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55448473",
+    "fileName": "KA5952_9500.csv",
+    "date": "2026-08-12 04:16:24.463000",
+    "description": "envios=9500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "353.331",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55448461",
+    "fileName": "KA5952_9000.csv",
+    "date": "2026-08-12 04:15:35.707000",
+    "description": "envios=9000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "353.165",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55447802",
+    "fileName": "KA5951_12000.csv",
+    "date": "2026-08-12 03:29:22.087000",
+    "description": "envios=12000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "360.415",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55447789",
+    "fileName": "KA5951_11500.csv",
+    "date": "2026-08-12 03:28:33.133000",
+    "description": "envios=11500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "357.915",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55447774",
+    "fileName": "KA5951_11000.csv",
+    "date": "2026-08-12 03:27:43.867000",
+    "description": "envios=11000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "363.748",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55447755",
+    "fileName": "KA5951_10500.csv",
+    "date": "2026-08-12 03:26:54.617000",
+    "description": "envios=10500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "369.581",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55447739",
+    "fileName": "KA5951_10000.csv",
+    "date": "2026-08-12 03:26:05.670000",
+    "description": "envios=10000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "365.665",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55447721",
+    "fileName": "KA5951_9500.csv",
+    "date": "2026-08-12 03:25:16.737000",
+    "description": "envios=9500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "368.331",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55447707",
+    "fileName": "KA5951_9000.csv",
+    "date": "2026-08-12 03:24:27.887000",
+    "description": "envios=9000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "372.081",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55442855",
+    "fileName": "KA5948_12000.csv",
+    "date": "2026-08-11 22:18:46.240000",
+    "description": "envios=12000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "299.415",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55442846",
+    "fileName": "KA5948_11500.csv",
+    "date": "2026-08-11 22:17:57.103000",
+    "description": "envios=11500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "307.832",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55442835",
+    "fileName": "KA5948_11000.csv",
+    "date": "2026-08-11 22:17:08.260000",
+    "description": "envios=11000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "313.165",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55442818",
+    "fileName": "KA5948_10500.csv",
+    "date": "2026-08-11 22:16:19.297000",
+    "description": "envios=10500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "317.998",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55442809",
+    "fileName": "KA5948_10000.csv",
+    "date": "2026-08-11 22:15:29.560000",
+    "description": "envios=10000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "327.332",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55442792",
+    "fileName": "KA5948_9500.csv",
+    "date": "2026-08-11 22:14:40.673000",
+    "description": "envios=9500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "327.248",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55442783",
+    "fileName": "KA5948_9000.csv",
+    "date": "2026-08-11 22:13:51.663000",
+    "description": "envios=9000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "330.665",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55441673",
+    "fileName": "KA5946_12000.csv",
+    "date": "2026-08-11 20:45:14.460000",
+    "description": "envios=12000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "370.165",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55441658",
+    "fileName": "KA5946_11500.csv",
+    "date": "2026-08-11 20:44:25.293000",
+    "description": "envios=11500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "376.248",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55441648",
+    "fileName": "KA5946_11000.csv",
+    "date": "2026-08-11 20:43:36.320000",
+    "description": "envios=11000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "376.331",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55441638",
+    "fileName": "KA5946_10500.csv",
+    "date": "2026-08-11 20:42:47.293000",
+    "description": "envios=10500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "379.248",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55441628",
+    "fileName": "KA5946_10000.csv",
+    "date": "2026-08-11 20:41:57.593000",
+    "description": "envios=10000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "377.415",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55441615",
+    "fileName": "KA5946_9500.csv",
+    "date": "2026-08-11 20:41:07.850000",
+    "description": "envios=9500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "376.998",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55441602",
+    "fileName": "KA5946_9000.csv",
+    "date": "2026-08-11 20:40:18.290000",
+    "description": "envios=9000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "378.581",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55440773",
+    "fileName": "KA5946_9000.csv",
+    "date": "2026-08-11 19:38:26.770000",
+    "description": "envios=9000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "378.581",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55421571",
+    "fileName": "KA5945_12000.csv",
+    "date": "2026-08-11 02:59:01.053000",
+    "description": "envios=12000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "337.831",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55421559",
+    "fileName": "KA5945_11500.csv",
+    "date": "2026-08-11 02:58:12.327000",
+    "description": "envios=11500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "346.248",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55421536",
+    "fileName": "KA5945_11000.csv",
+    "date": "2026-08-11 02:57:23.480000",
+    "description": "envios=11000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "347.665",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55421517",
+    "fileName": "KA5945_10500.csv",
+    "date": "2026-08-11 02:56:34.707000",
+    "description": "envios=10500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "343.998",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55421494",
+    "fileName": "KA5945_10000.csv",
+    "date": "2026-08-11 02:55:45.967000",
+    "description": "envios=10000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "354.498",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55421471",
+    "fileName": "KA5945_9500.csv",
+    "date": "2026-08-11 02:54:56.423000",
+    "description": "envios=9500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "359.915",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55421454",
+    "fileName": "KA5945_9000.csv",
+    "date": "2026-08-11 02:54:07.573000",
+    "description": "envios=9000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "352.665",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55421065",
+    "fileName": "KA5944_12000.csv",
+    "date": "2026-08-11 02:31:28.707000",
+    "description": "envios=12000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "351.081",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55421048",
+    "fileName": "KA5944_11500.csv",
+    "date": "2026-08-11 02:30:39.870000",
+    "description": "envios=11500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "347.331",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55421033",
+    "fileName": "KA5944_11000.csv",
+    "date": "2026-08-11 02:29:51.127000",
+    "description": "envios=11000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "338.998",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55421015",
+    "fileName": "KA5944_10500.csv",
+    "date": "2026-08-11 02:29:01.550000",
+    "description": "envios=10500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "344.331",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55421001",
+    "fileName": "KA5944_10000.csv",
+    "date": "2026-08-11 02:28:12.500000",
+    "description": "envios=10000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "350.498",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55420988",
+    "fileName": "KA5944_9500.csv",
+    "date": "2026-08-11 02:27:23.760000",
+    "description": "envios=9500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "353.498",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55420975",
+    "fileName": "KA5944_9000.csv",
+    "date": "2026-08-11 02:26:34.967000",
+    "description": "envios=9000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "347.415",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55412933",
+    "fileName": "KA5943_12000.csv",
+    "date": "2026-08-10 17:34:44.600000",
+    "description": "envios=12000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "363.581",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55412916",
+    "fileName": "KA5943_11500.csv",
+    "date": "2026-08-10 17:33:55.703000",
+    "description": "envios=11500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "368.665",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55412902",
+    "fileName": "KA5943_11000.csv",
+    "date": "2026-08-10 17:33:06.867000",
+    "description": "envios=11000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "371.415",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55412884",
+    "fileName": "KA5943_10500.csv",
+    "date": "2026-08-10 17:32:17.940000",
+    "description": "envios=10500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "366.748",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55412871",
+    "fileName": "KA5943_10000.csv",
+    "date": "2026-08-10 17:31:28.280000",
+    "description": "envios=10000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "353.248",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55412857",
+    "fileName": "KA5943_9500.csv",
+    "date": "2026-08-10 17:30:38.750000",
+    "description": "envios=9500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "353.498",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55412846",
+    "fileName": "KA5943_9000.csv",
+    "date": "2026-08-10 17:29:48.790000",
+    "description": "envios=9000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "359.998",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55395181",
+    "fileName": "KA5942_12000.csv",
+    "date": "2026-08-10 02:57:33.107000",
+    "description": "envios=12000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "340.831",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55395165",
+    "fileName": "KA5942_11500.csv",
+    "date": "2026-08-10 02:56:44.353000",
+    "description": "envios=11500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "343.415",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55395149",
+    "fileName": "KA5942_11000.csv",
+    "date": "2026-08-10 02:55:55.033000",
+    "description": "envios=11000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "351.665",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55395135",
+    "fileName": "KA5942_10500.csv",
+    "date": "2026-08-10 02:55:06.153000",
+    "description": "envios=10500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "348.331",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55395119",
+    "fileName": "KA5942_10000.csv",
+    "date": "2026-08-10 02:54:17.483000",
+    "description": "envios=10000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "337.248",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55395103",
+    "fileName": "KA5942_9500.csv",
+    "date": "2026-08-10 02:53:28.547000",
+    "description": "envios=9500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "349.665",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55395090",
+    "fileName": "KA5942_9000.csv",
+    "date": "2026-08-10 02:52:39.687000",
+    "description": "envios=9000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "352.665",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55394815",
+    "fileName": "KA5941_12000.csv",
+    "date": "2026-08-10 02:38:51.337000",
+    "description": "envios=12000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "307.082",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55394794",
+    "fileName": "KA5941_11500.csv",
+    "date": "2026-08-10 02:38:02.523000",
+    "description": "envios=11500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "309.332",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55394778",
+    "fileName": "KA5941_11000.csv",
+    "date": "2026-08-10 02:37:13.670000",
+    "description": "envios=11000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "311.498",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55394763",
+    "fileName": "KA5941_10500.csv",
+    "date": "2026-08-10 02:36:24.237000",
+    "description": "envios=10500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "309.498",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55394755",
+    "fileName": "KA5941_10000.csv",
+    "date": "2026-08-10 02:35:35.490000",
+    "description": "envios=10000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "308.665",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55394742",
+    "fileName": "KA5941_9500.csv",
+    "date": "2026-08-10 02:34:46.717000",
+    "description": "envios=9500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "305.248",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55394730",
+    "fileName": "KA5941_9000.csv",
+    "date": "2026-08-10 02:33:57.980000",
+    "description": "envios=9000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "306.498",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55394367",
+    "fileName": "KA5940_12000.csv",
+    "date": "2026-08-10 02:15:12.920000",
+    "description": "envios=12000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "358.915",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55394347",
+    "fileName": "KA5940_11500.csv",
+    "date": "2026-08-10 02:14:24.043000",
+    "description": "envios=11500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "360.915",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55394332",
+    "fileName": "KA5940_11000.csv",
+    "date": "2026-08-10 02:13:35.103000",
+    "description": "envios=11000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "349.831",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55394310",
+    "fileName": "KA5940_10500.csv",
+    "date": "2026-08-10 02:12:46.263000",
+    "description": "envios=10500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "355.331",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55394291",
+    "fileName": "KA5940_10000.csv",
+    "date": "2026-08-10 02:11:57.353000",
+    "description": "envios=10000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "356.831",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55394279",
+    "fileName": "KA5940_9500.csv",
+    "date": "2026-08-10 02:11:08.627000",
+    "description": "envios=9500  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "355.415",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55394260",
+    "fileName": "KA5940_9000.csv",
+    "date": "2026-08-10 02:10:19.833000",
+    "description": "envios=9000  semilla=300089",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "351.165",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55355307",
+    "fileName": "KA4070.csv",
+    "date": "2026-08-08 16:19:02.243000",
+    "description": "num_iterations=2200  learning_rate=0.005  feature_fraction=0.7  min_data_in_leaf=500  num_leaves=10  max_bin=500",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "353.081",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55355242",
+    "fileName": "KA4070.csv",
+    "date": "2026-08-08 16:16:03.667000",
+    "description": "num_iterations=2000  learning_rate=0.02  feature_fraction=0.7  min_data_in_leaf=100  num_leaves=40  max_bin=500",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "254.498",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55355138",
+    "fileName": "KA4070.csv",
+    "date": "2026-08-08 16:11:49.517000",
+    "description": "num_iterations=2000  learning_rate=0.02  feature_fraction=0.7  min_data_in_leaf=100  num_leaves=25  max_bin=500",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "319.582",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55355043",
+    "fileName": "KA4070.csv",
+    "date": "2026-08-08 16:07:08.753000",
+    "description": "num_iterations=2000  learning_rate=0.02  feature_fraction=0.6  min_data_in_leaf=50  num_leaves=100  max_bin=50",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "87.166",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55354969",
+    "fileName": "KA4070.csv",
+    "date": "2026-08-08 16:04:11.650000",
+    "description": "num_iterations=2000  learning_rate=0.02  feature_fraction=0.8  min_data_in_leaf=50  num_leaves=25  max_bin=50",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "301.248",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55354936",
+    "fileName": "KA4070.csv",
+    "date": "2026-08-08 16:02:27.060000",
+    "description": "num_iterations=500  learning_rate=0.5  feature_fraction=0.8  min_data_in_leaf=50  num_leaves=25  max_bin=400",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "82.249",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55354918",
+    "fileName": "KA4070.csv",
+    "date": "2026-08-08 16:01:23.633000",
+    "description": "num_iterations=2000  learning_rate=0.001  feature_fraction=0.8  min_data_in_leaf=50  num_leaves=25  max_bin=400",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "331.165",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55354885",
+    "fileName": "KA4070.csv",
+    "date": "2026-08-08 15:59:46.217000",
+    "description": "num_iterations=2000  learning_rate=0.001  feature_fraction=0.8  min_data_in_leaf=50  num_leaves=31  max_bin=300",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "333.998",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55354740",
+    "fileName": "KA4070.csv",
+    "date": "2026-08-08 15:53:08.720000",
+    "description": "num_iterations=2500  learning_rate=0.02  feature_fraction=0.5  min_data_in_leaf=50  num_leaves=31  max_bin=255",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "264.332",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55354660",
+    "fileName": "KA4070.csv",
+    "date": "2026-08-08 15:48:57.757000",
+    "description": "num_iterations=2000  learning_rate=0.02  feature_fraction=0.7  min_data_in_leaf=50  num_leaves=31  max_bin=255",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "304.582",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55354429",
+    "fileName": "KA440.csv",
+    "date": "2026-08-08 15:35:12.207000",
+    "description": "num.trees=1000  mtry=2  min.node.size=20 max.depth=15",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "357.248",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55354333",
+    "fileName": "KA440.csv",
+    "date": "2026-08-08 15:30:54.863000",
+    "description": "num.trees=1000  mtry=2  min.node.size=20 max.depth=18",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "350.331",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55354263",
+    "fileName": "KA440.csv",
+    "date": "2026-08-08 15:27:56.977000",
+    "description": "num.trees=1000  mtry=10  min.node.size=20 max.depth=18",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "326.915",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55354150",
+    "fileName": "KA440.csv",
+    "date": "2026-08-08 15:22:19.580000",
+    "description": "num.trees=500  mtry=30  min.node.size=20 max.depth=18",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "327.332",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55353243",
+    "fileName": "KA440.csv",
+    "date": "2026-08-08 14:37:14.363000",
+    "description": "num.trees=300  mtry=1  min.node.size=20 max.depth=18",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "321.665",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55353208",
+    "fileName": "KA440.csv",
+    "date": "2026-08-08 14:35:19.773000",
+    "description": "num.trees=300  mtry=3  min.node.size=20 max.depth=18",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "345.915",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55353175",
+    "fileName": "KA440.csv",
+    "date": "2026-08-08 14:33:56.330000",
+    "description": "num.trees=300  mtry=30  min.node.size=20 max.depth=18",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "328.415",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352976",
+    "fileName": "KA440.csv",
+    "date": "2026-08-08 14:24:46.443000",
+    "description": "num.trees=600  mtry=15  min.node.size=20 max.depth=0",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "303.832",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352852",
+    "fileName": "KA440.csv",
+    "date": "2026-08-08 14:18:54.223000",
+    "description": "num.trees=500  mtry=22  min.node.size=100 max.depth=18",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "333.498",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352707",
+    "fileName": "KA440.csv",
+    "date": "2026-08-08 14:11:50.217000",
+    "description": "num.trees=600  mtry=22  min.node.size=100 max.depth=18",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "338.748",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352672",
+    "fileName": "KA420_008.csv",
+    "date": "2026-08-08 14:09:51.063000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "293.498",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352664",
+    "fileName": "KA420_004.csv",
+    "date": "2026-08-08 14:09:29.337000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "277.332",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352659",
+    "fileName": "KA420_002.csv",
+    "date": "2026-08-08 14:09:16.213000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "207.999",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352652",
+    "fileName": "KA420_001.csv",
+    "date": "2026-08-08 14:09:07.823000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "120.832",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352603",
+    "fileName": "KA420_512.csv",
+    "date": "2026-08-08 14:07:06.387000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "341.331",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352600",
+    "fileName": "KA420_384.csv",
+    "date": "2026-08-08 14:07:02.380000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "340.831",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352596",
+    "fileName": "KA420_256.csv",
+    "date": "2026-08-08 14:06:58.477000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "346.331",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352594",
+    "fileName": "KA420_128.csv",
+    "date": "2026-08-08 14:06:54.707000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "347.748",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352590",
+    "fileName": "KA420_064.csv",
+    "date": "2026-08-08 14:06:50.917000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "348.415",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352588",
+    "fileName": "KA420_032.csv",
+    "date": "2026-08-08 14:06:46.800000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "352.831",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352586",
+    "fileName": "KA420_016.csv",
+    "date": "2026-08-08 14:06:43.093000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "332.665",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352583",
+    "fileName": "KA420_008.csv",
+    "date": "2026-08-08 14:06:39.353000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "343.915",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352582",
+    "fileName": "KA420_004.csv",
+    "date": "2026-08-08 14:06:35.563000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "344.081",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352580",
+    "fileName": "KA420_002.csv",
+    "date": "2026-08-08 14:06:31.643000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "332.665",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352578",
+    "fileName": "KA420_001.csv",
+    "date": "2026-08-08 14:06:27.877000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "277.748",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352548",
+    "fileName": "KA440.csv",
+    "date": "2026-08-08 14:05:09.770000",
+    "description": "num.trees=500  mtry=22  min.node.size=100 max.depth=18",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "333.498",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352357",
+    "fileName": "KA440.csv",
+    "date": "2026-08-08 13:56:21.203000",
+    "description": "num.trees=300  mtry=13  min.node.size=50 max.depth=10",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "335.498",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352206",
+    "fileName": "KA420_008.csv",
+    "date": "2026-08-08 13:49:20.753000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "326.665",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352087",
+    "fileName": "KA420_004.csv",
+    "date": "2026-08-08 13:44:35.107000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "340.581",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55352012",
+    "fileName": "KA420_002.csv",
+    "date": "2026-08-08 13:42:07.130000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "336.248",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55351979",
+    "fileName": "KA420_001.csv",
+    "date": "2026-08-08 13:40:51.043000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "324.248",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55351181",
+    "fileName": "KA420_384.csv",
+    "date": "2026-08-08 13:07:32.920000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.ERROR",
+    "publicScore": NaN,
+    "privateScore": NaN
+  },
+  {
+    "ref": "55351177",
+    "fileName": "KA420_256.csv",
+    "date": "2026-08-08 13:07:28.627000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.ERROR",
+    "publicScore": NaN,
+    "privateScore": NaN
+  },
+  {
+    "ref": "55351174",
+    "fileName": "KA420_128.csv",
+    "date": "2026-08-08 13:07:24.713000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.ERROR",
+    "publicScore": NaN,
+    "privateScore": NaN
+  },
+  {
+    "ref": "55351171",
+    "fileName": "KA420_064.csv",
+    "date": "2026-08-08 13:07:20.810000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.ERROR",
+    "publicScore": NaN,
+    "privateScore": NaN
+  },
+  {
+    "ref": "55351168",
+    "fileName": "KA420_032.csv",
+    "date": "2026-08-08 13:07:16.837000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.ERROR",
+    "publicScore": NaN,
+    "privateScore": NaN
+  },
+  {
+    "ref": "55351161",
+    "fileName": "KA420_016.csv",
+    "date": "2026-08-08 13:07:12.583000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.ERROR",
+    "publicScore": NaN,
+    "privateScore": NaN
+  },
+  {
+    "ref": "55351156",
+    "fileName": "KA420_008.csv",
+    "date": "2026-08-08 13:07:08.450000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.ERROR",
+    "publicScore": NaN,
+    "privateScore": NaN
+  },
+  {
+    "ref": "55351155",
+    "fileName": "KA420_004.csv",
+    "date": "2026-08-08 13:07:04.740000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.ERROR",
+    "publicScore": NaN,
+    "privateScore": NaN
+  },
+  {
+    "ref": "55351153",
+    "fileName": "KA420_002.csv",
+    "date": "2026-08-08 13:07:00.827000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.ERROR",
+    "publicScore": NaN,
+    "privateScore": NaN
+  },
+  {
+    "ref": "55351152",
+    "fileName": "KA420_001.csv",
+    "date": "2026-08-08 13:06:56.980000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8 parallel",
+    "status": "SubmissionStatus.ERROR",
+    "publicScore": NaN,
+    "privateScore": NaN
+  },
+  {
+    "ref": "55351028",
+    "fileName": "KA420_016.csv",
+    "date": "2026-08-08 13:00:45.797000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "354.581",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55350972",
+    "fileName": "KA420_008.csv",
+    "date": "2026-08-08 12:57:56.903000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "333.915",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55350945",
+    "fileName": "KA420_004.csv",
+    "date": "2026-08-08 12:56:31.393000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "313.498",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55350929",
+    "fileName": "KA420_002.csv",
+    "date": "2026-08-08 12:55:47.977000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "308.748",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55350918",
+    "fileName": "KA420_001.csv",
+    "date": "2026-08-08 12:55:24.620000",
+    "description": "cp=-1  minsplit=500  minbucket=125 maxdepth=8",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "277.748",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55350710",
+    "fileName": "KA420_008.csv",
+    "date": "2026-08-08 12:46:31.330000",
+    "description": "cp=-1  minsplit=50  minbucket=20 maxdepth=6",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "323.915",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55350672",
+    "fileName": "KA420_004.csv",
+    "date": "2026-08-08 12:45:26.603000",
+    "description": "cp=-1  minsplit=50  minbucket=20 maxdepth=6",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "271.082",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55350656",
+    "fileName": "KA420_002.csv",
+    "date": "2026-08-08 12:44:51.350000",
+    "description": "cp=-1  minsplit=50  minbucket=20 maxdepth=6",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "136.916",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55350644",
+    "fileName": "KA420_001.csv",
+    "date": "2026-08-08 12:44:32.390000",
+    "description": "cp=-1  minsplit=50  minbucket=20 maxdepth=6",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "-26.583",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55350562",
+    "fileName": "KA420_002.csv",
+    "date": "2026-08-08 12:41:52.213000",
+    "description": "cp=-1  minsplit=50  minbucket=20 maxdepth=6",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "290.665",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55350558",
+    "fileName": "KA420_001.csv",
+    "date": "2026-08-08 12:41:34.033000",
+    "description": "cp=-1  minsplit=50  minbucket=20 maxdepth=6",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "313.082",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55285383",
+    "fileName": "COMBO_6.csv",
+    "date": "2026-08-06 01:45:46.873000",
+    "description": "cp=-1  minsplit=100  minbucket=50  maxdepth=4",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "275.248",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55285312",
+    "fileName": "COMBO_5.csv",
+    "date": "2026-08-06 01:42:02.997000",
+    "description": "cp=-1  minsplit=100  minbucket=1000  maxdepth=8",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "276.165",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55285266",
+    "fileName": "COMBO_4.csv",
+    "date": "2026-08-06 01:39:58.260000",
+    "description": "cp=-1  minsplit=300  minbucket=150  maxdepth=8",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "305.665",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55285222",
+    "fileName": "COMBO_3.csv",
+    "date": "2026-08-06 01:38:03.607000",
+    "description": "cp=-1  minsplit=500  minbucket=83  maxdepth=10",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "326.998",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55285146",
+    "fileName": "COMBO_2.csv",
+    "date": "2026-08-06 01:34:10.810000",
+    "description": "cp=-1  minsplit=500  minbucket=125  maxdepth=10",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "343.915",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55285102",
+    "fileName": "COMBO_1.csv",
+    "date": "2026-08-06 01:32:10.447000",
+    "description": "cp=-1  minsplit=500  minbucket=125  maxdepth=8",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "317.332",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55281713",
+    "fileName": "submit_sample.csv",
+    "date": "2026-08-05 22:03:55.913000",
+    "description": "prueba de kaggle verificar",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "276.165",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55201532",
+    "fileName": "K101_001.csv",
+    "date": "2026-08-03 03:44:43.737000",
+    "description": "cp=-1  minsplit=800  minbucket=200  maxdepth=8",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "287.998",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55196171",
+    "fileName": "para_Kaggle_0107.csv",
+    "date": "2026-08-02 22:47:48.847000",
+    "description": NaN,
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "213.915",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55196112",
+    "fileName": "todos_unos.csv",
+    "date": "2026-08-02 22:43:18.570000",
+    "description": NaN,
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "-3076.904",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55190131",
+    "fileName": "K101_001.csv",
+    "date": "2026-08-02 16:12:22.717000",
+    "description": "cp=-1  minsplit=250  minbucket=100  maxdepth=15",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "280.165",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55163316",
+    "fileName": "K101_001.csv",
+    "date": "2026-08-01 13:28:56.520000",
+    "description": "cp=-1  minsplit=250  minbucket=100  maxdepth=10",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "302.082",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55162828",
+    "fileName": "K101_001.csv",
+    "date": "2026-08-01 13:04:49.460000",
+    "description": "cp=-1  minsplit=250  minbucket=100  maxdepth=3",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "277.415",
+    "privateScore": NaN
+  },
+  {
+    "ref": "55162510",
+    "fileName": "K101_001.csv",
+    "date": "2026-08-01 12:49:25.527000",
+    "description": "cp=-1  minsplit=250  minbucket=100  maxdepth=3",
+    "status": "SubmissionStatus.COMPLETE",
+    "publicScore": "255.498",
+    "privateScore": NaN
+  }
+]
