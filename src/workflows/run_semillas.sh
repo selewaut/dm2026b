@@ -83,14 +83,6 @@ fi
 echo "=== SWEEP INICIO $(date)  N_SEMILLAS=$N_SEMILLAS  EXP=${N_EXP}  SELECTOR=${SELECTOR}  SKIP=${SKIP} ==="
 
 tail -n +"$((SKIP+1))" semillas | head -n "$N_SEMILLAS" | while read -r s; do
-  # resume: skip semillas ya corridas (carpeta del notebook WF<exp>_s<seed>)
-  # chequea tanto exp/ relativo como /content/buckets/b1/exp del bucket y el viejo WF9500
-  if [[ -d "exp/WF${N_EXP}_s${s}" ]] || [[ -d "/content/buckets/b1/exp/WF${N_EXP}_s${s}" ]] || [[ -d "exp/WF9500_s${s}" && -f "exp/WF9500_s${s}/salida_corrida_exp${N_EXP}.ipynb" ]]; then
-    echo ""
-    echo "=== SKIP corrida SEMILLA=$s EXP=${N_EXP} (ya existe, se saltea) $(date) ==="
-    continue
-  fi
-
   echo ""
   echo "=== INICIO corrida SEMILLA=$s EXP=${N_EXP} SELECTOR=${SELECTOR} $(date) ==="
 
