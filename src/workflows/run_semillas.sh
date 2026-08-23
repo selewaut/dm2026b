@@ -8,7 +8,7 @@
 # Usa papermill para ejecutar los notebooks, que ademas de loguear
 # la salida de cada celda EN VIVO, deja una copia del notebook ya
 # ejecutado (con todos sus outputs) en la carpeta de la corrida
-# (exp/WF9500_s<semilla>/salida_corrida.ipynb)
+# (exp/WF<exp>_s<semilla>/salida_corrida_exp<exp>.ipynb)
 #
 # Si no hay internet para instalar, hace fallback a jupyter nbconvert
 #
@@ -97,7 +97,7 @@ head -n "$N_SEMILLAS" semillas | while read -r s; do
   if command -v papermill > /dev/null 2>&1; then
     # papermill: salida de cada celda en vivo en el log,
     #  y guarda el notebook ejecutado dentro de la carpeta del experimento
-    SALIDA="exp/WF9500_s${s}/salida_corrida${SUFIJO}.ipynb"
+    SALIDA="exp/WF${N_EXP}_s${s}/salida_corrida${SUFIJO}.ipynb"
     mkdir -p "$(dirname "$SALIDA")"
 
     if env EXP_NUM="$N_EXP" SEMILLA="$s" SELECTOR="$SELECTOR" papermill \
