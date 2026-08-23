@@ -76,19 +76,17 @@ if ! command -v papermill > /dev/null 2>&1; then
   echo "       (sin salida en vivo por celda; instale con: pip install papermill)" >&2
 fi
 
-# proteccion anti-pisado: abortar si alguna corrida ya fue hecha
-# con este numero de experimento (la carpeta del notebook es WF<exp>_s<seed>)
-for s in $(head -n "$N_SEMILLAS" semillas); do
-  if [[ -d "exp/WF${N_EXP}_s${s}" ]]; then
-    echo "ERROR: ya existe exp/WF${N_EXP}_s${s}  (corrida previa con EXP_NUM=$N_EXP)" >&2
-    echo "       no se pisa una corrida existente; use otro numero de experimento" >&2
-    exit 1
-  fi
-done
-
 echo "=== SWEEP INICIO $(date)  N_SEMILLAS=$N_SEMILLAS  EXP=${N_EXP}  SELECTOR=${SELECTOR} ==="
 
 head -n "$N_SEMILLAS" semillas | while read -r s; do
+  # resume: skip semillas ya corridas (carpeta del notebook WF<exp>_s<seed>)
+  # chequea tanto exp/ relativo como /content/buckets/b1/exp del bucket y el viejo WF9500
+  if [[ -d "exp/WF${N_EXP}_s${s}" ]] || [[ -d "/content/buckets/b1/exp/WF${N_EXP}_s${s}" ]] || [[ -d "exp/WF9500_s${s}" && -f "exp/WF9500_s${s}/salida_corrida_exp${N_EXP}.ipynb" ]]; then
+    echo ""
+    echo "=== SKIP corrida SEMILLA=$s EXP=${N_EXP} (ya existe, se saltea) $(date) ==="
+    continue
+  fi
+
   echo ""
   echo "=== INICIO corrida SEMILLA=$s EXP=${N_EXP} SELECTOR=${SELECTOR} $(date) ==="
 
