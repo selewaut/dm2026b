@@ -13,7 +13,7 @@
 # Si no hay internet para instalar, hace fallback a jupyter nbconvert
 #
 # Uso:
-#   bash run_semillas.sh [N_SEMILLAS] N_EXP [SELECTOR]
+#   bash run_semillas.sh [N_SEMILLAS] N_EXP [SELECTOR] [SKIP]
 #
 #   N_SEMILLAS   cantidad de semillas a correr        (default: 5)
 #   N_EXP        numero de experimento (entero), OBLIGATORIO, ej: 1
@@ -26,6 +26,9 @@
 #                "boruta"; se pasa al notebook via la variable de
 #                ambiente SELECTOR. Usar un N_EXP distinto por cada
 #                selector (la proteccion anti-pisado es por EXP_NUM)
+#   SKIP         cantidad de semillas iniciales a saltear (default: 0)
+#                util para resumir tras preemption: ej SKIP=1 saltea
+#                la primera semilla (644857) y corre desde la 2da
 #
 # Requiere:
 #   pip install papermill
@@ -44,6 +47,7 @@ set -uo pipefail
 N_SEMILLAS="${1:-5}"
 N_EXP="${2:-}"
 SELECTOR="${3:-canarito}"
+SKIP="${4:-0}"
 
 if [[ -z "$N_EXP" ]]; then
   echo "ERROR: falta el numero de experimento (segundo parametro, obligatorio)" >&2
@@ -76,9 +80,9 @@ if ! command -v papermill > /dev/null 2>&1; then
   echo "       (sin salida en vivo por celda; instale con: pip install papermill)" >&2
 fi
 
-echo "=== SWEEP INICIO $(date)  N_SEMILLAS=$N_SEMILLAS  EXP=${N_EXP}  SELECTOR=${SELECTOR} ==="
+echo "=== SWEEP INICIO $(date)  N_SEMILLAS=$N_SEMILLAS  EXP=${N_EXP}  SELECTOR=${SELECTOR}  SKIP=${SKIP} ==="
 
-head -n "$N_SEMILLAS" semillas | while read -r s; do
+tail -n +"$((SKIP+1))" semillas | head -n "$N_SEMILLAS" | while read -r s; do
   # resume: skip semillas ya corridas (carpeta del notebook WF<exp>_s<seed>)
   # chequea tanto exp/ relativo como /content/buckets/b1/exp del bucket y el viejo WF9500
   if [[ -d "exp/WF${N_EXP}_s${s}" ]] || [[ -d "/content/buckets/b1/exp/WF${N_EXP}_s${s}" ]] || [[ -d "exp/WF9500_s${s}" && -f "exp/WF9500_s${s}/salida_corrida_exp${N_EXP}.ipynb" ]]; then
