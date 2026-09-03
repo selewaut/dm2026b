@@ -182,3 +182,7 @@ project/target
 .worksheet
 
 .vscode/settings.json
+
+# custom ignores
+.pptx-build/
+exp/
